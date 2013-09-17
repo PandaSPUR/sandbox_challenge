@@ -1,3 +1,14 @@
+'''
+Name: Pawan M Ranganatha Rao
+ID: 0487218
+
+Brainfuck interpreter from https://github.com/DoctorLai/PyUtils/blob/master/bf.py
+Modified 
+
+
+'''
+
+
 def bf(src, left, right, data, idx):
     """
         brainfuck interpreter
