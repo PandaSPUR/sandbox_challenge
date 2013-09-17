@@ -1,18 +1,18 @@
 sandbox_challenge
 =================
 
-Application Security Sandbox Challenge
+<b>Application Security Sandbox Challenge</b>
 
-How to run (from command line):
+<b>How to run (from command line):</b>
 
-python sandbox.py <script_to_run.py> <arg1> <arg2>
+python sandbox.py script_to_run.py 
 
-Test Scripts:
-1) countdown.py
-2) fibonacci.py
-4) bin_search.py
-3) bf.py
-4) invalid_test.py
+Test Scripts:<br />
+1) countdown.py<br />
+2) fibonacci.py<br />
+4) bin_search.py<br />
+3) bf.py<br />
+4) invalid_test.py<br />
 
 
 
