@@ -10,8 +10,7 @@ python sandbox.py script_to_run.py
 Test Scripts:<br />
 1) countdown.py<br />
 2) fibonacci.py<br />
-4) bin_search.py<br />
-3) bf.py<br />
+3) bin_search.py<br />
 4) invalid_test.py<br />
 
 
