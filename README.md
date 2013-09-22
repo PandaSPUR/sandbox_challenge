@@ -13,6 +13,8 @@ Test Scripts:<br />
 3) bin_search.py<br />
 4) invalid_test.py<br />
 
+P.S: The sandbox was developed and tested on Ubuntu 12.x . Might throw up errors on other UNIX based operating systems due to usage of certain modules
+
 
 
 
